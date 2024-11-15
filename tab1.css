@@ -1,0 +1,30 @@
+
+/* select 1 */
+p{
+    color: blueviolet;
+    text-indent: 2ex;
+}
+/* select 1 */
+nav{display: inline;}
+/* select 1 */
+table{
+    border-style: solid;
+}
+/* select 1 */
+ul{margin-top: auto;}
+/* select 1 */
+h2{align-items: center;}
+/* select */
+#main-header{margin-right: 85px;}
+/* select */
+div{color: rgb(255, 0, 85);}
+h3{color: chocolate;}
+h1{
+    color: blue;
+    padding: 0px 800px;
+}
+div #k{margin-left: 800px;}
+section{margin-left: 800px;}
+footer{display:flex;gap: 50px;}
+#l{display:flex;gap: 50px;}
+#c{display:flex;gap: 50px;}
